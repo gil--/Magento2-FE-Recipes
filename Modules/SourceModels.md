@@ -34,3 +34,4 @@ Many of the default Source Models can be found inside ` /vendor/Magento/<module>
 | obscure | Magento\Config\Model\Config\Backend\Encrypted | Saved value is show with *. Useful for API keys or Passwords. Encrypted on backend |
 | text | n/a | Simple text field entry. No source model needed.
 | multiselect | Magento\Customer\Model\Config\Source\Group | Select customer groups
+| select or multiselect | Magento\Cms\Model\Config\Source\Page | Lists all CMS Pages
