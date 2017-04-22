@@ -9,7 +9,7 @@
 
 ##### Example field markup
 
-```
+```xml
  <field id="specificcountry" translate="label" type="multiselect" sortOrder="140" showInDefault="1" showInWebsite="1" showInStore="0">
     <label>Payment From Specific Countries</label>
     <source_model>Magento\Directory\Model\Config\Source\Country</source_model>
