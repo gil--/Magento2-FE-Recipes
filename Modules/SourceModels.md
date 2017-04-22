@@ -18,9 +18,9 @@
 
 ### List of Out of Box Source Models
 
-Many of the default Source Models can be found inside `/vendor/Magento/<module>/Model/Config/Source/`. An example would be `app/code/Gil/Mageziner/Model/Adminhtml/Source/CustomSource.php` or `vendor/Magento/module-config/Model/Config/Source`
+Many of the default Source Models can be found inside `/vendor/Magento/<module>/Model/Config/Source/`. An example would be `app/code/Gil/Mageziner/Model/Adminhtml/Source/CustomSource.php` or `vendor/Magento/module-config/Model/Config/Source`.
 
-. Also, many of the basic field types can be found in the [Config Source Model] (https://github.com/magento/magento2/tree/develop/app/code/Magento/Config/Model/Config/Source) module.
+Also, many of the basic field types can be found in the [Config Source Model](https://github.com/magento/magento2/tree/develop/app/code/Magento/Config/Model/Config/Source) module.
 
 | Type | Source Model | Description |
 | :--- | :--- | :--- |
